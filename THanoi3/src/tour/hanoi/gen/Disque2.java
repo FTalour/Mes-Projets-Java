@@ -1,3 +1,4 @@
+package tour.hanoi.gen;
 public class Disque2 extends Disque {
 
     private int val2;
@@ -6,11 +7,11 @@ public class Disque2 extends Disque {
     }
 
     public void init(int v) {
-	val = v; val2 = 2*v;
+    	val = v; val2 = 2*v;
     }
 
     public String toString() {
-	return "Disque2[" + val + ", " + val2 + "]";
+    	return "Disque2[" + val + ", " + val2 + "]";
     }
 
     /* Une redefinition de compareTo juste pour montrer dans les traces

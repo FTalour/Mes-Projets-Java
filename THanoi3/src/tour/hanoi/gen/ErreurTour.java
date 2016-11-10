@@ -1,3 +1,4 @@
+package tour.hanoi.gen;
 public class ErreurTour extends ErreurPile {
 
     /**
@@ -6,10 +7,10 @@ public class ErreurTour extends ErreurPile {
 	private static final long serialVersionUID = 1L;
 
 	public ErreurTour() {
-	super();
-    }
+		super();
+	}
 
-    public ErreurTour(String msg) {
-	super(msg);
-    }
+	public ErreurTour(String msg) {
+		super(msg);
+	}
 }
