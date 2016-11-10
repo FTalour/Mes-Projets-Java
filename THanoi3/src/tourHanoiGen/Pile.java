@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 // Pile Homogene de <T>, de capacity fixee a l'instantiation
 
 public class Pile<T> { 

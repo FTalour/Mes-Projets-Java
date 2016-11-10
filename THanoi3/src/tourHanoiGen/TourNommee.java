@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 public class TourNommee<T extends Empilable<? super T>> extends Tour<T> {
 
 	protected String nom;

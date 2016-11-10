@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 
 public class Disque implements Empilable<Disque> {
 	protected Integer val;

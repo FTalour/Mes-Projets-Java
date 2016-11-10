@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 import java.util.ArrayList;
 
 public class TestHanoi {

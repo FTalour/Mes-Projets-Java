@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 public class Disque2 extends Disque {
 
     private int val2;

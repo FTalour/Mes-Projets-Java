@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 class MesEntiers implements Empilable<MesEntiers> {
 	Integer val;
 

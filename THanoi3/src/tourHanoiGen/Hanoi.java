@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 import java.util.ArrayList;
 
 // Pour le choix du parametre de genericite, voir le commentaire dans Tour.java

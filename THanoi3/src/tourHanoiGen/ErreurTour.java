@@ -1,4 +1,4 @@
-package tour.hanoi.gen;
+package tourHanoiGen;
 public class ErreurTour extends ErreurPile {
 
     /**
