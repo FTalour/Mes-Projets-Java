@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	xmlns:tns="http://www.example.org/foo2" 
+	elementFormDefault="qualified"
+	attributeFormDefault="unqualified">
+	<element name="foo">
+		<complexType>
+		    <sequence>
+		    	<element name="bidule" type="int" maxOccurs="unbounded"/>
+	    		<element name="bar" maxOccurs="unbounded">
+	    			<complexType>
+	    				<sequence>
+	    					<element name="truc" type="int" maxOccurs="unbounded"/>
+	    				</sequence>
+	    			</complexType>
+	    		</element>
+		    </sequence>
+	    </complexType>
+	</element>
+</schema>

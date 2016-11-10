@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foo>
+  <bidule>28</bidule>
+  <bar>
+  	<truc>21</truc>
+  	<truc>22</truc>
+  </bar>
+  <bar>
+  	<truc>11</truc>
+  	<truc>12</truc>
+  </bar>
+  <bidule>25</bidule>
+</foo>
