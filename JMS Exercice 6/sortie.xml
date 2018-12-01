@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><soapenv:Envelope xmlns:q0="http://www.leuville.com/fournisseurService/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<soapenv:Body>
+<q0:getPrix>
+<code-produit>ABCD</code-produit>
+</q0:getPrix>
+</soapenv:Body>
+</soapenv:Envelope>

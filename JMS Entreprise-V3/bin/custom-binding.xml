@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jaxb:bindings jaxb:version="2.0" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb"
+		xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<jaxb:bindings schemaLocation="bibliotheque.xsd">
+		<jaxb:bindings node="/xs:schema">
+			<jaxb:schemaBindings>
+				<jaxb:package name="com.leuville.bibliotheque" />
+			</jaxb:schemaBindings>
+		</jaxb:bindings>
+		<jaxb:bindings node="//xs:element[@name='genre']">
+			<jaxb:property name="categorie" />
+		</jaxb:bindings>
+	</jaxb:bindings>
+</jaxb:bindings>
