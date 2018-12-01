@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<project name="HelloWorld" basedir="." default="generateProxy">
+	<import file="C:/Users/Vincent/Desktop/Java/_COMMUN/ant/taskdef.xml"/>
+	
+	<property name="wsdl" value="http://localhost:9516/envoi?WSDL" />
+	
+	<target name="generateProxy">
+		<wsimport 
+			debug="false"
+			verbose="false"
+			destdir="./bin"
+			keep="true"
+			sourcedestdir="./src"
+			wsdl="${wsdl}">
+		</wsimport>
+	</target>
+</project>
