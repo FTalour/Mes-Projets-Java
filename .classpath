@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Calculatrice/src"/>
+	<classpathentry kind="src" path="IHM/projet-ihm/src"/>
+	<classpathentry kind="src" path="IHM/tps ihm/src"/>
+	<classpathentry kind="src" path="JMS/JMS Entreprise-V3/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 1/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 2/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 3/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 4.1/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 4/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 5/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 6/src"/>
+	<classpathentry kind="src" path="JMS/JMS Exercice 7/src"/>
+	<classpathentry kind="src" path="JMS/JMS FOO1/src"/>
+	<classpathentry kind="src" path="JMS/JMS FOO2/src"/>
+	<classpathentry kind="src" path="Morpion/src"/>
+	<classpathentry kind="src" path="Ontologie/src"/>
+	<classpathentry kind="src" path="Programmation Distribuee/rmiclient/src"/>
+	<classpathentry kind="src" path="Programmation Distribuee/RMIServeur/src"/>
+	<classpathentry kind="src" path="Programmation Distribuee/soapclient/src"/>
+	<classpathentry kind="src" path="Programmation Distribuee/soapserver/src"/>
+	<classpathentry kind="src" path="Programmation Distribuee/webserviceclient/src"/>
+	<classpathentry kind="src" path="Programmation Distribuee/webserviceserveur/src"/>
+	<classpathentry kind="src" path="Projet Aeroport/src"/>
+	<classpathentry kind="src" path="Projet PNE/src"/>
+	<classpathentry kind="src" path="Test window/src"/>
+	<classpathentry kind="src" path="Tours Hanoi/THanoi1/src"/>
+	<classpathentry kind="src" path="Tours Hanoi/THanoi2/src"/>
+	<classpathentry kind="src" path="Tours Hanoi/THanoi3/src"/>
+	<classpathentry kind="src" path="TP Conception Objet/src"/>
+	<classpathentry kind="src" path="Tutoriel JME/src"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/eventbus.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/j-ogg-oggd.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jbullet.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jglfont-core.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jinput.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-blender.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-core.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-desktop.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-effects.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-jbullet.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-jogg.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-lwjgl.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-networking.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-niftygui.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-openal-soft-natives-android.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-plugins.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-terrain.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jME3-testdata.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/joal.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/jogl-all.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/lwjgl.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/nifty-default-controls.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/nifty-examples.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/nifty-style-black.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/nifty.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/stack-alloc.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/vecmath.jar"/>
+	<classpathentry kind="lib" path="Projet Aeroport/deps/xmlpull-xpp3.jar"/>
+	<classpathentry kind="lib" path="TP Initiation Java/src/tp2/exercice2/complexe.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/eventbus.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/j-ogg-oggd.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jbullet.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jglfont-core.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jinput.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-blender.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-core.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-desktop.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-effects.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-jbullet.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-jogg.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-lwjgl.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-networking.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-niftygui.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-openal-soft-natives-android.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-plugins.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-terrain.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jME3-testdata.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/joal.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/jogl-all.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/lwjgl.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/nifty-default-controls.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/nifty-examples.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/nifty-style-black.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/nifty.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/stack-alloc.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/vecmath.jar"/>
+	<classpathentry kind="lib" path="Tutoriel JME/deps/xmlpull-xpp3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
