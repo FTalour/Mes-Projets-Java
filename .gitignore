@@ -1,3 +1,5 @@
 *.class
 *.zip
 .zip
+/bin
+*/bin
