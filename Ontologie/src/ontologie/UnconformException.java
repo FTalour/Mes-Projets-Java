@@ -7,6 +7,11 @@ package ontologie;
  */
 public class UnconformException extends Exception {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public UnconformException() {
 		super();
 		// TODO Auto-generated constructor stub
